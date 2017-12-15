@@ -1,0 +1,424 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-09 19:46:48
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-12-10 00:10:47
+*/
+@import url("base.css");
+body{
+	width: 7.5rem;
+	height: auto;
+	background: #F5F5F5;
+}
+.tou{
+	width: 7.5rem;
+	height: 2.34rem;
+	background-image: linear-gradient(#543d2d,#070510);
+}
+.tou1{
+	width: 100%;
+	height: 0.76rem;
+	/* background: red; */
+}
+.tou11{
+	width: 0.39rem;
+	height: 0.39rem;
+	/* background: pink; */
+	float: left;
+	margin-top: 0.21rem;
+	margin-left: 0.22rem;
+}
+.tou11 img{
+	display: block;
+	height: 100%;
+}
+.tou12{
+	width: 2.63rem;
+	height: 0.76rem;
+/* 	background: blue; */
+	float: right;
+	display: flex;
+	justify-content: space-between;
+
+}
+.tr1{
+	display: block;
+	width: 0.43rem;
+	height: 0.43rem;
+	/* background: black; */
+	margin-top: 0.21rem;
+	margin-left: 0.22rem;
+}
+.tr1 img{
+	display: block;
+	width: 100%;
+}
+.tr2{
+	display: block;
+	width: 0.43rem;
+	height: 0.43rem;
+	/* background: black; */
+	margin-top: 0.21rem;
+	margin-left: 0.22rem;
+}
+.tr2 img{
+	display: block;
+	width: 100%
+}
+.tr3{
+	display: block;
+	width: 0.43rem;
+	height: 0.43rem;
+/* 	background: black; */
+	margin-top: 0.21rem;
+	margin-left: 0.22rem;
+	margin-right: 0.22rem;
+}
+.tr3 img{
+	display: block;
+	width: 100%
+}
+.tou2{
+	width: 100%;
+	height: 1.58rem;
+	/* background: red; */
+}
+.tt{
+	width: 1.7rem;
+	height: 1.58rem;
+	/* background: blue; */
+	/* margin-top: 0.08rem; */
+	margin-left:0.32rem;
+	float: left;
+	/* bottom: 18rem; */
+}
+.tt img{
+	display: block;
+	width: 100%
+}
+.tz{
+	display: block;
+	width: auto;
+	height: 1.2rem;
+	/* background: black; */
+	margin-top: 0.22rem;
+	margin-left: 0.18rem;
+	float: left;
+}
+.tz1{
+	width: auto;
+	height: 0.38rem;
+	/* background: pink; */
+		
+}
+.tz1 h2{
+	color: white;
+	font-size: 0.36rem;
+line-height: 0.38rem;
+}
+.tz2{
+	width: auto;
+	height: 0.5rem;
+	/* background: pink; */
+	
+}
+.tz2 div{
+	color: #e7e6e6;
+	font-size: 0.15rem;
+	line-height: 0.5rem;	
+
+}
+.tz3{
+	width: 2.3rem;
+	height: 0.3rem;
+	/* background: #3e97f9; */
+    color: #e7e6e6;
+	font-size: 0.15rem;
+	line-height: 0.3rem;	
+}
+.MJ{
+	width: 100%;
+	height: 1.02rem;
+	background: white;
+	overflow: hidden;
+	/* display: flex;
+	justify-content: space-between; */
+
+}
+.mj1{
+	width: 1.5rem;
+	height: 0.45rem;
+	/* background: white; */
+	float: left;
+	margin-left:0.32rem;
+	margin-top: 0.31rem;
+	
+}
+.mj2{
+	display: block;
+	width: 1.06rem;
+	height: 0.45rem;
+	/* background: white; */
+	float: right;
+	margin-right:0.32rem;
+	margin-top: 0.31rem;
+	
+	
+}
+.mj11{
+	width: 0.26rem;
+	height: 0.26rem;
+	background: #dc7c78;
+	float: left;
+	margin-top: 0.07rem;
+	font-size: 0.18rem;
+	line-height: 0.26rem;
+	color: white;
+}
+.mj12{
+	width: auto;
+	height: 0.26rem;
+	/* background: black; */
+	float: left;
+
+	margin-top: 0.07rem;
+	font-size: 0.18rem;
+	line-height: 0.26rem;
+	color: black;
+}
+.mj21{
+	width: 0.9rem;
+	height: 100%;
+	font-size: 0.2rem;
+	line-height: 0.45rem;
+	color: black;
+	float: left;
+}
+.mjt{
+	width: 0.14rem;
+	height: 0.14rem;
+/* 	background: pink; */
+	float: left;
+	margin-top: 0.2rem;
+}
+.mjt img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+/* .mj2{
+	width: 1.4rem;
+	height: 0.45rem;
+	background: blue;
+	float: right;
+	margin-right:0.32rem;
+	margin-top: 0.31rem
+
+	
+} */
+.SP{
+	width: 100%;
+	height: auto;
+/* 	background: red; */
+}
+.sp{
+	width: 100%;
+	height: 0.69rem;
+/* 	background: pink; */
+	border-bottom: 0.02rem solid #F8F8F8;
+}
+.sp1{
+	display: block;
+	width: auto;
+	height: 100%;
+	float: left;
+	/* background: blue; */
+	box-sizing: border-box;
+	margin-left: 0.3rem;
+	font-size: 0.2rem;
+	color: blue;
+	text-align: center;
+	border-bottom: 0.05rem solid blue;
+	line-height: 0.69rem;
+}
+
+.sp2{
+	display: block;
+	width: auto;
+	height: 100%;
+	float: left;
+	/* background: blue; */
+	box-sizing: border-box;
+	margin-left: 0.3rem;
+	font-size: 0.2rem;
+	color: black;
+	line-height: 0.69rem;
+}
+.gd{
+	width: 1.61rem;
+	height: 7.9rem;
+	/* background: blue; */
+	position: fixed;
+	left: 0;
+	top: 4.1rem;
+	float: left;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+.cdt{
+	display: inline-block; 
+	width: 0.27rem;
+	height: 0.27rem;
+	/* background: white; */
+	margin-top: 0.05rem;
+	float: left;
+}
+.cdt img{
+	display: block;
+	width: 100%;
+	height: 100%
+}
+.gd a{
+	margin-top: 0.4rem;
+	font-size: 0.2rem;
+	color: black;
+	margin-left: 0.23rem;
+}
+.cd{
+	width: 5.66rem;
+	height: 5.66rem;
+/* 	background: yellowgreen; */
+	float: right;
+}
+.cds{
+	width: 100%;
+	height:0.61rem;
+	background: white;
+}
+.cds h3{
+	color: black;
+	font-size: 0.18rem;
+	line-height: 0.61rem;
+}
+.cdxq{
+	width: 5.47rem;
+	height: 1.95rem;
+	/* background: pink; */
+	box-sizing: border-box;
+	border-bottom: 1px solid #F1F1F1;
+	/* overflow: hidden; */
+}
+.fan{
+	width: 5.47rem;
+	height: 1.55rem;
+	background: white;
+	border-bottom: 1px solid #F8F8F8;
+	margin-top: 0.15rem;
+}
+.fan1{
+	width: 5.47rem;
+	height: 1.55rem;
+	background: white;
+	border-bottom: 1px solid #F8F8F8;
+	margin-top: 0.15rem;
+	margin-bottom: 1rem;
+}
+.ft{
+	width: 1.52rem;
+	height: 1.52rem;
+	/* background: pink; */
+	float: left;
+}
+.ft img{
+	display: block;
+	width: 100%;
+	height: 100%;
+
+}
+.fz{
+	display: block;
+	width: 3.76rem;
+	height: 0.8rem;
+	float: right;
+	/* background: yellowgreen; */
+}
+.fza{
+	width: auto;
+	height: 0.44rem;
+	/* background: pink; */
+}
+.fza h3{
+	font-size: 0.2rem;
+	color: black;
+}
+.fzb{
+	width: auto;
+	height: 0.36rem;
+	/* background: white; */
+}
+.fzb h5{
+	font-size: 0.2rem;
+	color: #686868;
+}
+.fz1{
+	width: 3.76rem;
+	height: 0.5rem;
+	float: right;
+	/* background: white; */
+	margin-top: 0.2rem;
+}
+.fz1a{
+	width: auto;
+	height: 0.5rem;
+	float: left;
+	/* background: yellowgreen; */
+}
+.fz1a h4{
+	font-size: 0.2rem;
+	color: red;
+	line-height: 0.5rem;
+}
+.yuan{
+	width: 0.48rem;
+	height: 0.48rem;
+	background:blue;
+	border-radius: 50%;
+	float: right;
+	font-size: 0.4rem;
+	color: white;
+	line-height: 0.48rem;
+	text-align: center;
+}
+.db{
+	width: 100%;
+	height: 0.95rem;
+	background: rgba(0, 0, 0, 0.5);
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.db1{
+	width: auto;
+	height: 100%;
+	font-size: 0.3rem;
+	float: left;
+	color: rgba(255, 255, 255, 0.5);
+	line-height: 0.95rem;
+	padding-left: 0.4rem;
+
+
+}
+.db2{
+	width: auto;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	font-size: 0.3rem;
+	float: right ;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+
+	color: rgba(255, 255, 255, 0.5);
+	line-height: 0.95rem;
+
+}

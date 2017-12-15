@@ -1,0 +1,320 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-07 21:33:05
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-12-14 19:00:40
+*/
+@import url("base.css");
+body{
+	width: 7.5rem;
+	height: auto;
+	background: #F5F5F5;
+}
+.tou{
+	width: 100%;
+	height: 0.86rem;
+	background-image: linear-gradient(#00a9ff,#0086ff);
+}
+.tou1{
+	width: 0.86rem;
+	height: 0.86rem;
+	/* background:red; */
+	font-size: 0.38rem;
+	text-align: center;
+	line-height: 0.86rem;
+	color: white;
+	float: left;
+}
+.touz{
+	width: 4.44rem;
+	height: 0.86rem;
+	/* background: pink; */
+	margin: 0 auto;
+	float: left;
+	font-size: 0.38rem;
+	padding-left: 2.18rem;
+	line-height: 0.86rem;
+	color: white;
+}
+.DD{
+	width: 100%;
+	height: 2.44rem;
+	background:white;
+	margin-top: 0.2rem;
+	box-sizing: border-box;
+	border-bottom: 2px solid #EEEEEE;
+}
+.DT{
+	width: 0.72rem;
+	height: 0.72rem;
+	background: pink;
+	float: left;
+	margin-top: 0.31rem;
+	margin-left: 0.3rem;
+}
+.DT img{
+	display: block;
+	width: 100%;
+}
+.DZ{
+	width: 6.48rem;
+	height: 2.13rem;
+	/* background: blue; */
+	float: left;
+	margin-top: 0.31rem;
+}
+.dz1{
+	width: 100%;
+	height: 0.46rem;
+	/* background: white; */
+}
+.dz11{
+	width: 3.24rem;
+	height: 100%;
+	/* background: black; */
+	float: left;
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.46rem;
+}
+.dz12{
+	width: 0.46rem;
+	height: 100%;
+/* 	background: blue; */
+	float: left;
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.46rem;
+}
+.dz13{
+	width: 2.7rem;
+	height: 100%;
+	/* background: yellow; */
+	float: right;
+	box-sizing: border-box;
+	padding-right: 0.3rem;
+	font-size: 0.31rem;
+	text-align: right;
+	line-height: 0.46rem;
+}
+.time{
+	width: 100%;
+	height: 0.26rem;
+	/* background: red; */
+	font-size: 0.21rem;
+	/* text-align: center; */
+	line-height: 0.26rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.neirong{
+	width: 100%;
+	height: 0.75rem;
+	/* background: pink; */
+	font-size: 0.27rem;
+	/* text-align: center; */
+	line-height: 0.75rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.jiaqian{
+	width: auto;
+	height: 0.27rem;
+	/* background: pink; */
+}
+.jiaqian h2{
+	font-size: 0.21rem;
+	/* text-align: center; */
+	line-height: 0.27rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.DD{
+	width: 100%;
+	height: 2.44rem;
+	background:white;
+	margin-top: 0.2rem;
+	box-sizing: border-box;
+	border-bottom: 2px solid #EEEEEE;
+}
+.dd1{
+	width: 100%;
+	height: 3.2rem;
+	background:white;
+	margin-top: 0.2rem;
+	box-sizing: border-box;
+	border-bottom: 2px solid #EEEEEE;
+}
+.dd2{
+	width: 100%;
+	height: 3.2rem;
+	background:white;
+	margin-top: 0.2rem;
+	box-sizing: border-box;
+	border-bottom: 2px solid #EEEEEE;
+	margin-bottom: 1.4rem;
+}
+.DT{
+	width: 0.72rem;
+	height: 0.72rem;
+	background: pink;
+	float: left;
+	margin-top: 0.31rem;
+	margin-left: 0.3rem;
+}
+.DT img{
+	display: block;
+	width: 100%;
+}
+.DZ{
+	width: 6.48rem;
+	height: 2.13rem;
+	/* background: blue; */
+	float: left;
+	margin-top: 0.31rem;
+}
+.dz1{
+	width: 100%;
+	height: 0.46rem;
+	/* background: white; */
+}
+.dz11{
+	width: auto;
+	height: 100%;
+	/* background: black; */
+	float: left;
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.46rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.dz12{
+	width: 0.46rem;
+	height: 100%;
+/* 	background: blue; */
+	float: left;
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.46rem;
+}
+.dz13{
+	width: 2.7rem;
+	height: 100%;
+	/* background: yellow; */
+	float: right;
+	box-sizing: border-box;
+	padding-right: 0.3rem;
+	font-size: 0.31rem;
+	text-align: right;
+	line-height: 0.46rem;
+}
+.time{
+	width: 100%;
+	height: 0.26rem;
+	/* background: red; */
+	font-size: 0.21rem;
+	/* text-align: center; */
+	line-height: 0.26rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.neirong{
+	width: 100%;
+	height: 0.75rem;
+	/* background: pink; */
+	font-size: 0.27rem;
+	/* text-align: center; */
+	line-height: 0.75rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.jiaqian{
+	width: auto;
+	height: 0.27rem;
+	/* background: pink; */
+}
+.jiaqian h2{
+	font-size: 0.21rem;
+	/* text-align: center; */
+	line-height: 0.27rem;
+	box-sizing: border-box;
+	padding-left: 0.21rem;
+}
+.tupian{
+	width: 2rem;
+	height: 0.56rem;
+	/* background: red; */
+	float: right;
+	margin-right: 0.432rem;
+	box-sizing: border-box;
+	border: 2px solid #C35544;
+	border-radius: 0.2rem;
+	font-size:0.23rem;
+	text-align: center;
+	line-height: 0.48rem;
+	color: #C35544;
+}
+.BT{
+	width: 100%;
+	height: 1.32rem;
+	background: white;
+	box-sizing: border-box;
+	border-top: 0.02rem solid #f5f5f5;
+	border-bottom: 0.02rem solid #f5f5f5;
+	margin-top: 1.32rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 9999;
+}
+.bt{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 1.32rem;
+	/* background: blue; */
+}
+.bt li{
+	width: 25%;
+	height: 100%;
+/* 	background: red; */
+	float: left;
+}
+.bt1{
+	display: block;
+	width: 0.72rem;
+	height: 1.08rem;
+	/* background: yellowgreen; */
+	margin-left: 0.44rem;
+	overflow: hidden;
+}
+.bt1t{
+	
+	width: 0.52rem;
+	height: 0.52rem;
+	/* background: white; */
+	margin: 0 auto;
+	margin-top: 0.18rem;
+}
+.bt1t img{display: block;
+	width: 100%;
+	height: 100%;
+}
+li a{
+	width: 100%;
+	height: 100%;
+}
+.bt1z{
+	width: 0.71rem;
+	height: 0.23rem;
+	/* background: blue; */
+	margin-top: 0.16rem;
+	font-size: 0.21rem;
+	color:#7B7B7B;
+	text-align: center;
+	line-height: 0.23rem;
+}
+.bt1za{
+	color: #21D2EA;
+}

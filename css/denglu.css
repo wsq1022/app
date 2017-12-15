@@ -1,0 +1,297 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-07 21:07:58
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-12-14 11:11:23
+*/
+@import url("base.css");
+body{
+	width: 7.5rem;
+	height: auto;
+	background: #F5F5F5;
+}
+.tou{
+	width: 100%;
+	height: 0.86rem;
+    background-image: linear-gradient(#00a9ff,#0086ff);
+}
+.tou1{
+	width: 0.86rem;
+	height: 0.86rem;
+	/* background:red; */
+	font-size: 0.38rem;
+	text-align: center;
+	line-height: 0.86rem;
+	color: white;
+	float: left;
+}
+.touz{
+	width: 4.52rem;
+	height: 0.86rem;
+	/* background: pink; */
+	margin: 0 auto;
+	float: left;
+	font-size: 0.38rem;
+	padding-left: 2.11rem;
+	line-height: 0.86rem;
+	color: white;
+}
+.wode{
+	width: 100%;
+	height: 2.06rem;
+    background: white;
+    margin-top: 0.2rem;
+    box-sizing: border-box;
+	border-top: 0.02rem solid #f5f5f5;
+	border-bottom: 0.02rem solid #f5f5f5;
+
+}
+.wo1{
+	width: 7.1rem;
+	height: 1.18rem;
+	/* background: pink; */
+	float: right;
+    box-sizing: border-box;
+	border-bottom: 0.02rem solid #f5f5f5;
+
+}
+.wo2{
+	width: 7.1rem;
+	height: 0.87rem;
+	/* background: blue; */
+	float: right;
+}
+.w111{
+	width: auto;
+	height: 100%;
+	/* background: white; */
+	font-size: 0.3rem;
+	color: black;
+	text-align: center;
+	line-height: 0.87rem;
+	float: left;
+}
+.w222{
+   width: auto;
+	height: 0.87rem;
+	/* background: black; */
+	float: left;
+	text-align: center;
+	line-height: 0.87rem;
+	/* margin-top: 0.14rem; */
+	font-size: 0.25rem;
+	color: #CACACC;
+	margin-left: 4.3rem;	
+}
+.w333{
+	width: 0.69rem;
+	height: 0.87rem;
+	/* background: black; */
+	float: right;
+	/* margin-top: 0.43rem; */
+	font-size: 0.26rem;
+	color: #CACACC;
+	text-align: center;
+	line-height: 0.87rem;
+}
+.w11{
+	width: auto;
+	height: 100%;
+	/* background: white; */
+	font-size: 0.3rem;
+	color: black;
+	text-align: center;
+	line-height: 1.18rem;
+	float: left;
+}
+
+.w22{
+	width: 0.91rem;
+	height: 0.91rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.14rem;
+	margin-left: 4.89rem;
+}
+.w22 img{
+	display: block;
+	width: 100%;
+}
+.w33{
+	width: 0.69rem;
+	height: 0.35rem;
+	/* background: black; */
+	float: right;
+	margin-top: 0.43rem;
+	font-size: 0.26rem;
+	color: #CACACC;
+	text-align: center;
+	line-height: 0.35rem;
+}
+.zh{
+	width: 100%;
+	height: 5.07rem;
+	/* background: red; */
+}
+.zht{
+	
+	height: 0.67rem;
+	/* background: pink; */
+	font-size: 0.27rem;
+	color: #656565;
+	line-height: 0.67rem;
+	margin-left: 0.19rem;
+}
+.zhz{
+	width: 100%;
+	height: auto;
+	background: white;
+}
+.zhz1{
+	width: 100%;
+	height: 0.88rem;
+	/* background: yellowgreen; */
+	box-sizing: border-box;
+	border-bottom: 2px solid #EEEEEE;
+}
+/* .zht{
+	width: 0.4rem;
+	height: 0.4rem;
+	background: white;
+} */
+.bdzht{
+	width: 0.4rem;
+	height: 0.4rem;
+	/* background: white; */
+	float: left;
+	margin-top: 0.24rem;
+	margin-left: 0.19rem;
+
+}
+
+.bdzht img{
+	display: block;
+	width: 100%;
+	color: blue;
+}
+.bdzht1{
+	width: auto;
+	height: 0.4rem;
+	background: white;
+	float: left;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	/* margin-left: 0.19rem; */
+	
+}
+.qwe{
+		width: 1.94rem;
+	height: 0.4rem;
+	background: white;
+	float: left;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	margin-left: 3.1rem;
+}
+/* .bdzht2{
+	width: auto;
+	height: 0.4rem;
+	background: white;
+	float: left;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	margin-left: 3.04rem;
+	/* margin-left: 0.19rem; */
+	
+
+.bdzhtt{
+	width: 1.94rem;
+	height: 0.4rem;
+	background: white;
+	float: left;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	margin-left: 3.04rem;
+	/* margin-left: 0.19rem; */
+	
+}
+.bit1{
+	width: 1.94rem;
+	height: 0.4rem;
+	background: white;
+	float: left;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	/* margin-left: 3.04rem; */
+	margin-left: 2.8rem;
+}
+
+.bdzht3{
+	width: auto;
+	height: 0.4rem;
+	/* background: white; */
+	float: right;
+	margin-top: 0.24rem;
+	font-size: 0.31rem;
+	/* margin-left: 3.04rem; */
+	margin-right: 0.19rem;
+	
+}
+.BT{
+	width: 100%;
+	height: 1.32rem;
+	background: white;
+	box-sizing: border-box;
+	border-top: 0.02rem solid #f5f5f5;
+	border-bottom: 0.02rem solid #f5f5f5;
+	margin-top: 1.32rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 9999;
+}
+.bt{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 1.32rem;
+	/* background: blue; */
+}
+.bt li{
+	width: 25%;
+	height: 100%;
+	/* background: red; */
+	float: left;
+}
+.bt1{
+	width: 0.72rem;
+	height: 1.08rem;
+	/* background: yellowgreen; */
+	margin-left: 0.44rem;
+	overflow: hidden;
+}
+.bt1t{
+	width: 0.52rem;
+	height: 0.52rem;
+	/* background: white; */
+	margin: 0 auto;
+	margin-top: 0.18rem;
+}
+.bt1t img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.bt1z{
+	width: 0.71rem;
+	height: 0.23rem;
+	/* background: blue; */
+	margin-top: 0.16rem;
+	font-size: 0.21rem;
+	color:#7B7B7B;
+	text-align: center;
+	line-height: 0.23rem;
+}
+.bbt{
+	color: blue;
+}

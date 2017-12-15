@@ -1,0 +1,466 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-10 02:16:54
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-12-10 03:31:36
+*/
+@import url("base.css");
+body{
+	width: 7.5rem;
+	height: auto;
+	background: #F5F5F5;
+}
+.tou{
+	width: 100%;
+	height: 7.09rem;
+	background: #F0EEFA;
+}
+.tp{
+	width: 100%;
+	height: 5.64rem;
+	background: red;
+	margin-top: 0.43rem;
+	position: relative;
+
+}
+.tp img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.fanhui{
+	width: 0.57rem;
+	height: 0.57rem;
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 50%;
+	position: absolute;
+	top: 0.15rem;
+	left: 0.31rem;
+}
+.fanhui img{
+	display: block;
+	width: 100%;
+}
+.js{
+	width: 100%;
+	height: 2.19rem;
+	background: white;
+	overflow: hidden;
+
+}
+.js1{
+	width: auto;
+	height: 0.52rem;
+	/* background: pink; */
+	margin-top: 0.18rem;
+}
+.js1 h3{
+	font-size: 0.3rem;
+	color: black;
+	padding-left: 0.31rem;、
+	line-height: 0.52rem;
+}
+.js2{
+	width: auto;
+	height: 0.47rem;
+	/* background: pink; */
+	/* margin-top: 0.18rem; */
+	font-size: 0.3rem;
+	color: black;
+	padding-left: 0.31rem;
+	line-height: 0.47rem;
+}
+.js3{
+	width: auto;
+	height:0.28rem;
+	/* background: blue; */
+	margin-left: 0.31rem;
+	
+}
+.js3a{
+	width: 0.65rem;
+	height: 0.26rem;
+	background: #FF4A00;
+	font-size: 0.19rem;
+	float: left;
+	color: white;
+	line-height: 0.26rem;
+	text-align: center;
+}
+.js3b{
+	width: auto;
+	height: 100%;
+	background: white;
+	font-size: 0.19rem;
+	line-height: 0.26rem;
+	float: left;
+	box-sizing: border-box;
+	border: 1px solid #DC7798;
+
+}
+.js4{
+	width: 6.99rem;
+	height: 0.46rem;
+	/* background: blue; */
+	margin-left: 0.3rem;
+	display: flex;
+	justify-content: space-between;
+}
+.js4a{
+	width: auto;
+	height: 100%;
+	/* background: red; */
+}
+.ja1{
+	width: auto;
+	height: 100%;
+/* 	background: yellow; */
+	color: #FF4A00;
+	font-size: 0.24rem;
+	line-height: 0.46rem;
+	float: left;
+}
+.ja2{
+	width: auto;
+	height: 100%;
+	/* background: pink; */
+	color: #9D9D9D;
+	font-size: 0.14rem;
+	line-height: 0.46rem;
+	text-decoration: line-through;
+	float: left;
+
+}
+.js4b{
+	display: block;
+	width: 1.5rem;
+	height: 100%;
+	background: #4f98e9;
+	border-radius: 0.2rem;
+	font-size: 0.24rem;
+	color: white;
+	line-height: 0.46rem;
+	text-align: center;
+}
+.pj{
+	width: 100%;
+	height: auto;
+	background: white;
+	margin-top: 0.22rem;
+
+
+}
+.pjt{
+	width: 100%;
+	height: 0.88rem;
+/* 	background: red; */
+	margin-top: 0.22rem;
+	box-sizing: border-box;
+	border-bottom:1px solid #DC7798;
+}
+.xq{
+	width: auto;
+	height: 0.4rem;
+	/* background: pink; */
+	margin-top: 0.24rem;
+	margin-left: 0.31rem;
+	float: left;
+}
+.xq h3{
+	font-size: 0.28rem;
+	color: black;
+	float: left;
+	line-height: 0.4rem;
+}
+.xq h5{
+	font-size: 0.2rem;
+	color: black;
+	float: left;
+	line-height: 0.4rem;
+}
+.xq1{
+	width: auto;
+	height: 0.4rem;
+/* 	background: yellow;
+ */	float: right;
+	margin-top: 0.24rem;
+	/* margin-right: 0.31rem; */
+	font-size: 0.2rem;
+	color: black;
+}
+.xx{
+	width: 0.26rem;
+	height: 0.26rem;
+	margin-top: 0.3rem;
+	margin-right: 0.31rem;
+	/* background: red; */
+	float: right;
+}
+.xx img{
+	display: block;
+	width: 100%;
+	 
+}
+.pl{
+	width: 100%;
+	height: auto;
+}
+.pjj{
+	width: 6.47rem;
+	height: 2.81rem;
+	/* background: pink; */
+	float: right;
+	margin-top: 0.28rem;
+}
+.pj1{
+	width: auto;
+	height: 0.31rem;
+/* 	background: yellowgreen; */
+}
+.pjj1{
+	width: 1.04rem;
+	height: 100%;
+	/* background: yellow; */
+	float: left;
+
+}
+.pjj1 h3{
+	font-size: 0.24rem;
+	color: black;
+	line-height: 0.31rem;
+}
+.pjj2{
+	width: auto;
+	height: 100%;
+	/* background: blue; */
+	float: left;
+
+}
+.pjj2 h6{
+		font-size: 0.18rem;
+	color: #8E8E8E;
+	line-height: 0.31rem;
+}
+.pj2{
+	width: 100%;
+	height: 0.57rem;
+	/* background: blue; */
+}
+.pja{
+	width: auto;
+	height: 100%;
+	/* background: yellow; */
+	font-size: 0.18rem;
+	float: left;
+	line-height: 0.57rem;
+
+}
+.pjb{
+	width: 0.22rem;
+	height: .22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjb img{
+	display: block;
+	width: 100%;
+}
+.pjb1{
+	width: auto;
+	height: 0.2rem;
+	/* background: pink; */
+	float: left;
+	font-size: 0.18rem;
+	color: #DD8054;
+	line-height: 0.2rem;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjc{
+	width: auto;
+	height: 0.22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+	font-size: 0.18rem;
+	line-height: 0.22rem;
+}
+.pjd{
+	width: 0.22rem;
+	height: .22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjd img{
+	display: block;
+	width: 100%;
+}
+.fankui{
+	width: 1.81rem;
+	height: 1.81rem;
+	/* background: black; */
+	margin-top: 0.12rem;
+}
+.fankui img{
+	display: block;
+	width: 100%;
+}.PJ{
+	width: 7.26rem;
+	height: 3.4rem;
+/* 	background: red; */
+	margin-left: 0.24rem;
+}
+.pjt{
+	width: 0.66rem;
+	height: 0.66rem;
+/* 	background: black; */
+	float: left;
+	margin-top: 0.28rem;
+	margin-left: 0.02rem;
+}
+.pjt img{
+	display: block;
+	width: 100%;
+}
+.pjj{
+	width: 6.47rem;
+	height: 2.81rem;
+	/* background: pink; */
+	float: right;
+	margin-top: 0.28rem;
+}
+.pj1{
+	width: auto;
+	height: 0.31rem;
+/* 	background: yellowgreen; */
+}
+.pjj1{
+	width: 1.04rem;
+	height: 100%;
+	/* background: yellow; */
+	float: left;
+
+}
+.pjj1 h3{
+	font-size: 0.24rem;
+	color: black;
+	line-height: 0.31rem;
+}
+.pjj2{
+	width: auto;
+	height: 100%;
+	/* background: blue; */
+	float: left;
+
+}
+.pjj2 h6{
+		font-size: 0.18rem;
+	color: #8E8E8E;
+	line-height: 0.31rem;
+}
+.pj2{
+	width: 100%;
+	height: 0.57rem;
+	/* background: blue; */
+}
+.pja{
+	width: auto;
+	height: 100%;
+	/* background: yellow; */
+	font-size: 0.18rem;
+	float: left;
+	line-height: 0.57rem;
+
+}
+.pjb{
+	width: 0.22rem;
+	height: .22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjb img{
+	display: block;
+	width: 100%;
+}
+.pjb1{
+	width: auto;
+	height: 0.2rem;
+	/* background: pink; */
+	float: left;
+	font-size: 0.18rem;
+	color: #DD8054;
+	line-height: 0.2rem;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjc{
+	width: auto;
+	height: 0.22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+	font-size: 0.18rem;
+	line-height: 0.22rem;
+}
+.pjd{
+	width: 0.22rem;
+	height: .22rem;
+	/* background: black; */
+	float: left;
+	margin-top: 0.18rem;
+	margin-left: 0.14rem;
+}
+.pjd img{
+	display: block;
+	width: 100%;
+}
+.fankui{
+	width: 1.81rem;
+	height: 1.81rem;
+	/* background: black; */
+	margin-top: 0.12rem;
+}
+.fankui img{
+	display: block;
+	width: 100%;
+}
+.db{
+	width: 100%;
+	height: 0.95rem;
+	background: rgba(0, 0, 0, 0.5);
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.db1{
+	width: auto;
+	height: 100%;
+	font-size: 0.3rem;
+	float: left;
+	color: rgba(255, 255, 255, 0.5);
+	line-height: 0.95rem;
+	padding-left: 0.4rem;
+
+
+}
+.db2{
+	width: auto;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	font-size: 0.3rem;
+	float: right ;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+
+	color: rgba(255, 255, 255, 0.5);
+	line-height: 0.95rem;
+
+}
